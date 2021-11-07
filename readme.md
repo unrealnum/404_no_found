@@ -8,8 +8,13 @@ to save some learning notes
 有一些在另外的仓库
 等到完全整理好会复制过来
 
-学习1[待上传][]
-学习2[已上传][https://github.com/unrealnum/404_no_found/tree/master/git_learning]
+学习1[待上传]()
 
-学习3[正在学习中......][]
+
+
+学习2[已上传](https://github.com/unrealnum/404_no_found/tree/master/git_learning)
+
+
+
+学习3[正在学习中......]()
 
