@@ -15,3 +15,5 @@
   * 两端都进行了修改，无法进行fast-forward(快速合并)
   * remote origin 设置错误
 
+* git输入`git log`无法返回命令视窗的问题
+  * 尝试多次按下Esc
