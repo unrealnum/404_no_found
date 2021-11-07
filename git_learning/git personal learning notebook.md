@@ -14,6 +14,16 @@
   * 本地的.ssh私钥不能解码githu上公钥（公私钥不对应）
   * 两端都进行了修改，无法进行fast-forward(快速合并)
   * remote origin 设置错误
-
-* git输入`git log`无法返回命令视窗的问题
+* git无法返回命令视窗的问题（一般出现在git commit 手贱忘写-m的情况，或是输入`git log`）
   * 尝试多次按下Esc
+  * **（摘自google）按下Esc以退出<insert>mode，按下":"光标出现到最下方时输入q!，点击enter。**
+
+
+
+## 代码记录
+
+
+
+`git remote -v`：查看所有远程库。
+
+`git log`：查看修改情况。
