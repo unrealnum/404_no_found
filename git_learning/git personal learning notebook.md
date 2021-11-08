@@ -17,6 +17,10 @@
 * git无法返回命令视窗的问题（一般出现在git commit 手贱忘写-m的情况，或是输入`git log`）
   * 尝试多次按下Esc
   * **（摘自google）按下Esc以退出<insert>mode，按下":"光标出现到最下方时输入q!，点击enter。**
+* does not have a commit check out
+  * ~~禁止套娃（不是）~~
+  * 删除子目录下的.git
+* 
 
 
 
