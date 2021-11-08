@@ -5,10 +5,9 @@ to save some learning notes
 
 里面会存放一些自己在学习中的记录
 但是并不是全部
-有一些在另外的仓库
-等到完全整理好会复制过来
+有一些在另外的仓库<br>等到完全整理好会复制过来<br>图片索引还未做好
 
-学习1[已上传]()
+学习1[已上传](https://github.com/unrealnum/404_no_found/tree/master/markdown%E5%AD%A6%E4%B9%A0)
 
 
 
