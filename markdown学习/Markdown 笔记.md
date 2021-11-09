@@ -197,3 +197,35 @@ AAAAAAAAAAAAAAA[^DNJSKFHKJSDJKSJD]
 * 全屏：最大化文件窗口，排除其他软件的干扰。
 * reveal.js : 好用的PPT工具
 * gitbook?!
+* [markdown语法大全](https://blog.csdn.net/m0_46168848/article/details/120379487?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163642180116780271540273%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=163642180116780271540273&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-120379487.pc_search_result_hbase_insert&utm_term=typora+%E8%A1%8C%E5%88%97%E5%BC%8F&spm=1018.2226.3001.4187)
+
+### 数学语法
+
+* #### 矩阵
+
+$$
+
+D_n = \left|
+\matrix{ 
+1         &      1    & \cdots &1     \\  
+x_1       &    x_2    &   ...  &x_n    \\
+x^2_1     &     x^2_2 &   ...  & x^2_n \\ 
+\vdots    &    \vdots & \ddots &\vdots \\
+x_1^{n-1} & x_2^{n-1} &    ... & x_n^{n-1}
+}
+\right|
+			
+					
+$$
+
+* 上下标
+
+$$
+v_{dfgshkjfklksd}
+$$
+
+$$
+v^{dslkgjnldkfjg}
+$$
+
+* 
