@@ -18,7 +18,7 @@
 
     - <b>修饰</b>
 
-- 标题和字号大小从H1~H6<title>
+- 标题和字号大小从H1~H6  title
 
 - <div id="xxx">
       <h3>div!</h3>
@@ -26,55 +26,57 @@
 
 - <p>分段
 
-- <b>加粗
+- b 加粗
 
-- <i>斜体
+- i斜体
 
-- <sup><sub>上标与下标
+- sup sub上标与下标
 
-- <br>换行
+- br换行
 
-- <hr>一条水平线
+- hr 一条水平线
 
-- 加粗.强调<strong>
+- 加粗.强调strong
 
-- <em>斜体
+- em斜体
 
 - 较短的引用和较长的引用。
 
-  - <blockquote>
+  - blockquote
 
-  - <q>
+  - q
 
-- <abbr>首字母缩写
+- abbr 首字母缩写
 
-- <cite>
+- cite
 
   - 引用，会被标注为斜体。
 
-- <dfn>
+- dfn
 
   - 用于表示一个新术语的定义。
 
-- <address>
+- address
+
 
   - 设计者的地址信息
 
-- <ins>
+- ins
 
   - 下划线
 
-- <del></del><s>
+- del del s
 
   - 删除线
 
-- <head><body>
+- head body
+
 
   #### 列表
 
 - <ol>有序列表
 
-  - <li>起始标签和结束标签
+  - li 起始标签和结束标签
 
 - <ul>无序列表
 
