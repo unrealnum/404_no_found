@@ -204,7 +204,6 @@ AAAAAAAAAAAAAAA[^DNJSKFHKJSDJKSJD]
 * #### 矩阵
 
 $$
-
 D_n = \left|
 \matrix{ 
 1         &      1    & \cdots &1     \\  
@@ -215,7 +214,7 @@ x_1^{n-1} & x_2^{n-1} &    ... & x_n^{n-1}
 }
 \right|
 			
-					
+					
 $$
 
 * 上下标
@@ -228,4 +227,3 @@ $$
 v^{dslkgjnldkfjg}
 $$
 
-* 
