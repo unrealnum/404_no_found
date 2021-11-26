@@ -19,9 +19,11 @@ to save some learning notes
 
 
 
-个人网站：https://unrealnum.github.io
+示例网站：https://unrealnum.github.io
 
 
+
+还未更新注释，页面不能自适应，基本功能可用。部分炫酷功能不能使用。
 
 网站仓库：https://github.com/unrealnum/unrealnum.github.io
 
