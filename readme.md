@@ -19,7 +19,7 @@ to save some learning notes
 
 
 
-学习4——python已上传
+学习4——python[已上传](https://github.com/unrealnum/404_no_found/blob/master/python_learning/python%20guidebook%EF%BC%88learning%20record%EF%BC%89(basic%20point).md)
 
 
 
