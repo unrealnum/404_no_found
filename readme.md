@@ -27,7 +27,7 @@ to save some learning notes
 
 
 
-利用Python做的一个小程序
+[利用Python做的一个小程序(点击这里查看源代码)](https://github.com/unrealnum/404_no_found/blob/master/python_learning/demo.py)
 
 
 
