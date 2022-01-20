@@ -9,9 +9,21 @@ to save some learning notes
 
 
 
-[爬虫]()
+[爬虫（py文件）](https://github.com/unrealnum/404_no_found/blob/master/%E7%88%AC%E8%99%AB/%E7%88%AC%E8%99%AB.py)
 
 > 起初打算利用浏览器模拟和 js转html的思路来写，但由于个人水平原因始终琢磨不出来，到最后无奈之下只能直接找到图片和文字的本家 ( 某某js文件 ) ，然后手写匹配:cry:
+>
+> 直接运行即可使用！（文件会放在桌面）
+
+
+
+[爬虫图片结果](https://github.com/unrealnum/404_no_found/tree/master/%E7%88%AC%E8%99%AB/pic%EF%BC%88%E9%A2%84%E6%9C%9F%E7%BB%93%E6%9E%9C%EF%BC%89)
+
+
+
+[爬虫文字结果](https://github.com/unrealnum/404_no_found/blob/master/%E7%88%AC%E8%99%AB/text%EF%BC%88%E4%B8%8D%E5%BC%80%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BB%93%E6%9E%9C%EF%BC%89%20-.txt)
+
+
 
 
 
