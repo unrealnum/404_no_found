@@ -1,4 +1,4 @@
-# 404_no_found
+# 404_no_found(请先看这里~)
 to save some learning notes
 
 ## 这是用来放学习文件的一个仓库
@@ -6,6 +6,14 @@ to save some learning notes
 里面会存放一些自己在学习中的记录
 但是并不是全部
 有一些在另外的仓库<br>等到完全整理好会复制过来<br>图片索引还未做好
+
+
+
+[爬虫]()
+
+> 起初打算利用浏览器模拟和 js转html的思路来写，但由于个人水平原因始终琢磨不出来，到最后无奈之下只能直接找到图片和文字的本家 ( 某某js文件 ) ，然后手写匹配:cry:
+
+
 
 学习1[已上传](https://github.com/unrealnum/404_no_found/tree/master/markdown%E5%AD%A6%E4%B9%A0)
 
